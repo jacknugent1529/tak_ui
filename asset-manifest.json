@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tak_ui/static/css/main.5a59aa39.css",
+    "main.js": "/tak_ui/static/js/main.801170e2.js",
+    "static/js/787.bfb58695.chunk.js": "/tak_ui/static/js/787.bfb58695.chunk.js",
+    "index.html": "/tak_ui/index.html",
+    "main.5a59aa39.css.map": "/tak_ui/static/css/main.5a59aa39.css.map",
+    "main.801170e2.js.map": "/tak_ui/static/js/main.801170e2.js.map",
+    "787.bfb58695.chunk.js.map": "/tak_ui/static/js/787.bfb58695.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5a59aa39.css",
+    "static/js/main.801170e2.js"
+  ]
+}
