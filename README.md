@@ -1,4 +1,5 @@
-# Getting Started with Create React App
+# Tak UI
+This repository holds an online version of 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
